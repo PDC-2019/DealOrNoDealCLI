@@ -1,0 +1,29 @@
+
+**********************************************************************
+*                      Welcome to Deal or No Deal!                   *
+*                                                                    *
+* Playing the game is easy!                                          *
+*                                                                    *
+* In Deal or No Deal there are 24 boxes, each containing different   *
+* amounts of money.                                                  *
+*                                                                    *
+* At the start you must select one box to remain unopened until      *
+* the end.                                                           *
+*                                                                    * 
+* Choose carefully, the goal is to pick the box with the most money! *
+*                                                                    *
+* Then there will be rounds where you select boxes to reveal the     *
+* amounts of money inside.                                           *
+*                                                                    *
+* After each round the Banker will make an offer for your box.       *
+*                                                                    *  
+* You can take the deal or continue playing.                         *
+*                                                                    *
+* The aim of the game is to walk away with lots of money!            *
+*                                                                    *
+* Have fun and good luck!                                            *
+*                                                                    *
+**********************************************************************
+
+   
+

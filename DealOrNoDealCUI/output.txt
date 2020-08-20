@@ -1,0 +1,7 @@
+*---------------------------------- NO DEAL ------------------------------*
+*---                 You have REJECTED the Bankers Offers.             ---*
+
+Your case contains: $400 and the Bankers Offer is: $54647.58
+You are walking away with: $400
+
+*------------------------------ You LOSE! --------------------------------*
