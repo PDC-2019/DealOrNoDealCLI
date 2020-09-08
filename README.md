@@ -1,7 +1,7 @@
 # DealOrNoDealCLI
 
 ## Project Description
-The purpose of this project was to create a Command-Line User Interface (CUI) version of a Deal Or No Deal game. 
+The purpose of this project was to create a Command-Line User Interface (CUI/CLI) version of a Deal Or No Deal game. 
 The code to create the game needed to be clear, well-designed and follow Object-Oriented Programming practices. The game interface had to be easy for users to interact with. The code also had to successfully input and output data to/from text files, as well as easily handle user input from the Command Line. The class structure needed to be clear and contribute to the complexity and robsutness of the functionality.
 
 ## Gameplay
